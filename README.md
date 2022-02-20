@@ -78,8 +78,8 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![OUTPUT1](./output1)
-![Output2](./output2)
+![Output](./pic1.png)
+
 
 ## RESULT:
 The above simpleserver has been developed to display about top five programming languages
